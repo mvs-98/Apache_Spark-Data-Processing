@@ -42,7 +42,7 @@ pip install pyspark pandas
 
 ### Running the Notebook
 
-1. Clone this repository and open the notebook `CSC8101-spark-coursework.ipynb` in Jupyter.
+1. Clone this repository and open the notebook `Apache_Spark_Project.ipynb` in Jupyter.
 2. Set the dataset size (`'S'`, `'M'`, `'L'`, `'XL'`, `'XXL'`) and format (`'parquet'` or `'delta'`) by changing the `SIZE` and `DATA_FORMAT` variables in the notebook.
 3. Run all cells to execute the pipeline for the specified dataset configuration.
 
